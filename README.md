@@ -16,12 +16,12 @@ To use this project on your system, follow these steps:
 1.Clone this repository onto your system by typing the following command on your Command Prompt:
 
 ```
-git clone https://github.com/Karan-Malik/FaceMaskDetector.git
+git clone https://github.com/faryal6/Real_Time_Face_Mask_Detection.git
 ```
 followed by:
 
 ```
-cd FaceMaskDetector
+cd Real_Time_Face_Mask_Detection
 ```
 
 2. Download all libaries using::
@@ -29,12 +29,12 @@ cd FaceMaskDetector
 pip install -r requirements.txt
 ```
 
-3. Run 
+3. Open spyder For training using cmd:
 ```
-
+run facemask.py
 ```
-5. facemask.py by typing the following command on your Command Prompt:
+5. Open jupyter notebook For testing using cmd:
 ```
-python facemask.py
+run facemask.py
 ```
 
