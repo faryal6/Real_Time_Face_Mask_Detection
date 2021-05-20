@@ -31,10 +31,10 @@ pip install -r requirements.txt
 
 3. Open spyder For training using cmd:
 ```
-run facemask.py
+run facemask.py file
 ```
 5. Open jupyter notebook For testing using cmd:
 ```
-run facemask.py
+run testing_on_webcam.ipynb file
 ```
 
